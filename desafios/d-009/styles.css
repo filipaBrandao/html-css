@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+.linha, .linhas, .video, .voltar{
+ text-align: center;
+}
+h1, .curso{
+    color: aliceblue;
+    text-align: center;
+}
+a:visited {
+    color: aliceblue;
+}
